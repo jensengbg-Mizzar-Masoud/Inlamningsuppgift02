@@ -1,0 +1,78 @@
+{
+  "Balls": [
+    {
+      "id": "00",
+      "Name": "football",
+      "Price": "100kr",
+      "Image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "01",
+      "Name": "basketball",
+      "Price": "299kr",
+      "Image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "02",
+      "Name": "Tennisball",
+      "Price": "210kr",
+      "Image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "03",
+      "Name": "baseball",
+      "Price": "245kr",
+      "Image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "04",
+      "Name": "Volleyball",
+      "Price": "199kr",
+      "Image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "05",
+      "Name": "bowlingball",
+      "Price": "500kr",
+      "Image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "06",
+      "Name": "golfball.",
+      "Price": "350kr",
+      "Image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "07",
+      "Name": "handball",
+      "Price": "150kr",
+      "Image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "08",
+      "Name": "hockeypuck",
+      "Price": "200kr",
+      "Image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "09",
+      "Name": "cricket",
+      "Price": "95kr",
+      "Image": "https://placeimg.com/640/480/any"
+    },
+    {
+      "id": "10",
+      "Name": "rugbyball",
+      "Price": "400kr",
+      "Image": "https://placeimg.com/640/480/any"
+    }
+  ],
+  "korg": [
+    {
+      "id": "01",
+      "Name": "basketball",
+      "Price": "299kr",
+      "Image": "https://placeimg.com/640/480/any"
+    }
+  ]
+}
